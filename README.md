@@ -1,7 +1,9 @@
 # twitter-sentiment-analysis
 
 ## Required Libraries
-*P
+* pandas
+* kaggle
+* python3
 
 ## Kaggle API Setup
 
